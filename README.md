@@ -1,4 +1,4 @@
-# YOLOv4-Cloud-Tutorial
+# YOLOv4-Tutorial: Forked from AI Guys Code. Links mentioned below:
 This repository walks you through how to Build, Train and Run YOLOv4 Object Detections with Darknet in the Cloud through Google Colab.
 
 ![Example Of YOLOv4 Detections](images/detection1.jpg)
